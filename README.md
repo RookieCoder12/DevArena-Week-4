@@ -21,3 +21,34 @@ This is Week 4 weekly submission for my internship at Developers Arena. In this 
 - `requirements.txt` - Consist of <b>Python libraries</b> required for this project.
 
 - `sales_analysis.ipynb` - My Practice file also used as reference for this project.
+
+## Getting Started
+
+### Prerequisites
+Ensure you have Python 3.x installed on your system.
+
+### Cloning Repository
+Cloning the repository:
+```zsh
+git clone https://github.com/RookieCoder12/DevArena-Week-4.git
+```
+
+### Installation
+Install the required dependencies:
+```zsh
+pip install -r requirements.txt
+```
+
+### Running the Project
+
+#### Running the Python Notebook
+1. Run jupyter notebook:
+```zsh
+jupyter notebook
+```
+2. Open ```analysis.ipynb```
+
+## Structure
+In this project, I performed <b>Exploratory Data Analysis (EDA)</b> on Amazon e-commerce sales data to uncover trends and insights. The analysis was carried out using Python in a Jupyter Notebook environment. <br>
+During the preprocessing stage, the dataset was cleaned by handling missing values and transforming the <b>Date</b> column into separate <b>year, month, and day</b> components to make time-based analysis easier.<br>
+After preprocessing, the data was analyzed to identify patterns such as monthly sales trends, category-wise performance, order cancellations, and regional sales distribution. Basic visualizations were created using Matplotlib and Seaborn to represent these insights in an intuitive and easy-to-understand manner.
