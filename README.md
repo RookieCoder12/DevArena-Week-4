@@ -20,7 +20,7 @@ This is Week 4 weekly submission for my internship at Developers Arena. In this 
 
 - `requirements.txt` - Consist of <b>Python libraries</b> required for this project.
 
-- `sales_analysis.ipynb` - My Practice file also used as reference for this project.
+- `sales_analysis.ipynb` - My Practice file also used as reference for this project and also contains the analysis of the sales data provided by Developers Arena.
 
 ## Getting Started
 
